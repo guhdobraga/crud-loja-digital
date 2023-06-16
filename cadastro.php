@@ -75,7 +75,7 @@ require_once 'db.php';
         <div>
             <button type="submit" name="submit" value="Agendar">Cadastrar</button>
             <button><a href="listar.php">Listar</a></button>
-            <button><a href="index-carrinho.php">Produtos</a></button>
+            <button><a href="index-carrinho.php">Produtos</a></button>a
             </div>
         </form>
         </section>
